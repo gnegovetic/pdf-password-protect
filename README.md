@@ -8,3 +8,5 @@ With this app, no unprotected PDF file is uploaded and it's processed on your ma
 ``` PdfPasswordProtect.exe /input=.\Test.pdf /pw=x2TiM8BG66Cv ```
 
 This will generate Test_Protected.pdf. 
+
+On Mac or Linux you can run this app if you install _mono_: ``` mono PdfPasswordProtect.exe /input=Test.pdf /pw=test ``` 
